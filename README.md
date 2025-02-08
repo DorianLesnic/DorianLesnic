@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DorianLesnic
-- 👀 I’m interested in BioInformatics
-- 🌱 I’m currently learning GitHub platforms
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m the founder of Cardneto
+- 🌱 Events networking platform
 - 📫 How to reach me dorianlesnic@gmail.com
 
 <!---
